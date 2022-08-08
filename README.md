@@ -1,4 +1,4 @@
-<img src="/smaller-bannernavil.png" alt="banner" />
+<img src="/sm-banner.png" alt="banner" />
 
 ### Hi there and welcome to my github page! 👋
 
