@@ -6,4 +6,4 @@ I am Navil from Bangladesh and I live in Viareggio, Italy. I am a Pythonista wit
 
 ---
 
-Currently, I am working as a Python Programming Instructor at Tokio School. My course topics include Flask framework, SQLite, Jupyter Notebook and others.
+Currently, I am working as a Python Programming Instructor at Tokio School. I teach topics such as Flask, SQLite, Jupyter Notebook and others.
