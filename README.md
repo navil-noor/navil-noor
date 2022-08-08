@@ -8,7 +8,7 @@ Currently, I am working as a Python Programming Instructor at Tokio School. I te
 
 ---
 
-### I work on:
+### I am good with:
 <p>
   <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-3776AB?logo=Python&logoColor=yellow&style=for-the-badge" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white&style=for-the-badge" />
