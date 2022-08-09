@@ -3,7 +3,7 @@
 <!-- remove comment for below after pull requests, contribution and stars -->
 <!-- <img src=https://github-readme-stats.vercel.app/api?username=navil-noor&show_icons=true&theme=tokyonight /> -->
 <!-- themes = dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navil-noor&layout=compact" alt=""/>
+
 
 ### Hi there and welcome to my github page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 
@@ -11,7 +11,7 @@ I am Navil from Bangladesh and I live in Viareggio, Italy.
 
 I am a Pythonista <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="25"> with a Bachelor's degree in Telecommunications Engineering.
 
-Currently, I am working as a Python Programming Instructor at Tokio School. I teach topics to students from all around Europe.
+Currently, I am working as a Python Programming Instructor at Tokio School. My students are from all around Europe.
 
 ---
 
@@ -39,3 +39,7 @@ Currently, I am working as a Python Programming Instructor at Tokio School. I te
 <a href="https://www.linkedin.com/in/navilnoor/">
   <img alt="Linkedin" src="https://img.shields.io/badge/Navil Noor-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navil-noor&layout=compact" alt=""/>
