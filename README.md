@@ -1,5 +1,8 @@
 <img src="/sm-banner.PNG" alt="banner" />
 <img src="https://komarev.com/ghpvc/?username=navil-noor&style=flat-square&color=blue" alt=""/>
+<!-- remove comment for below after pull requests, contribution and stars -->
+<!-- <img src=https://github-readme-stats.vercel.app/api?username=navil-noor&show_icons=true&theme=tokyonight /> -->
+<!-- themes = dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 ### Hi there and welcome to my github page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 
