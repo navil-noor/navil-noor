@@ -18,18 +18,7 @@ Currently, I am working as a Python Programming Instructor at Tokio School. My s
 ### I am good with:
 
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="60" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="70" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="80" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="80" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="60" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="raspberrypi" alt="raspberrypi" width="80" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="50" height="80"/>
-  <img src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/ring.svg" title="linux-mint" alt="linux-mint" width="40" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" width="50" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="80"/>
+  <img src="https://github.com/navil-noor/navil-noor/blob/main/good_at.PNG" title="tech_list"/>
 </p>
 
 ---
