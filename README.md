@@ -18,7 +18,7 @@ Currently, I am working as a Python Programming Instructor at Tokio School and C
 ### I am good with:
 
 <p>
-  <img src="https://github.com/navil-noor/navil-noor/blob/main/good_at.PNG" title="tech_list"/>
+  <img src="" title="tech_list"/>
 </p>
 
 ---
