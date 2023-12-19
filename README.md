@@ -13,16 +13,6 @@ I am a Pythonista <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/gip
 
 Currently, I am working as a Python Programming Instructor at Tokio School and CEMP (Centre for European Master's Programmes). I teach topics on Python, Web Development and Data Analysis.
 
-I am also working on some projects in C++ during my spare time.
-
----
-
-### I am good with:
-
-<p>
-  <img src="https://github.com/navil-noor/navil-noor/blob/main/i_know.png" title="tech_list"/>
-</p>
-
 ---
 
 ### You can connect with me on:
