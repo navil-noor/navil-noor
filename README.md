@@ -9,9 +9,9 @@
 
 I am Navil from Bangladesh and I live in Viareggio, Italy.
 
-I am a Pythonista <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="25"> with a Bachelor's degree in Telecommunications Engineering and a Master's degree in Big Data and Artificial Intelligence from Spain.
+I am a web developer with a Bachelor's degree in Telecommunications Engineering and a Master's degree in Big Data and Artificial Intelligence from Spain.
 
-Currently, I am working as a Python Programming Instructor at Tokio School and CEMP (Centre for European Master's Programmes). I teach topics on Python, Web Development and Data Analysis.
+Currently, I am working as a Full Stack Developer at Officine08 - Passione Motociclistica. I build seo-optimized web solutions.
 
 ---
 
