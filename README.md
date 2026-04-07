@@ -9,7 +9,7 @@
 
 I am Navil from Bangladesh and I live in Viareggio, Italy.
 
-I am a web developer with a Bachelor's degree in Telecommunications Engineering and a Master's degree in Big Data and Artificial Intelligence from Spain.
+I am a software engineer with a Bachelor's degree in Telecommunications Engineering and a Master's degree in Big Data and Artificial Intelligence from Spain.
 
 Currently, I am a Full Stack Consultant by day, an Android Dev by night and an Advanced Programming Student in between.
 
