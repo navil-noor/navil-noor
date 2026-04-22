@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/sm-banner.PNG" alt="banner" width="500" height="500" />
+  <img src="/sm-banner.png" alt="banner" />
 </p>
 
 <p align="center">
