@@ -1,29 +1,71 @@
-<img src="/sm-banner.PNG" alt="banner" width="500" height="500" />
-<img src="https://komarev.com/ghpvc/?username=navil-noor&style=flat-square&color=blue" alt=""/>
-<!-- remove comment for below after pull requests, contribution and stars -->
-<!-- <img src=https://github-readme-stats.vercel.app/api?username=navil-noor&show_icons=true&theme=tokyonight /> -->
-<!-- themes = dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<p align="center">
+  <img src="/sm-banner.PNG" alt="banner" width="500" height="500" />
+</p>
 
-
-### Hi there and welcome to my github page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-
-I am Navil from Bangladesh and I live in Viareggio, Italy.
-
-I am a software engineer with a Bachelor's degree in Telecommunications Engineering and a Master's degree in Big Data and Artificial Intelligence from Spain.
-
-Currently, I am a Full Stack Consultant by day, an Android Dev by night and an Advanced Programming Student in between.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=navil-noor&style=flat-square&color=blue" alt=""/>
+</p>
 
 ---
 
-# 💻 Tech Knowledge
+### Hi, I’m Navil.
+
+Software Engineer based in Viareggio, Italy.
+
+I work across web and mobile, building systems end-to-end — from architecture to how they actually behave in real use.
+
+By day, I work as a Full-stack Engineer.  
+Outside of that, I’m building Voltroniq — an independent studio focused on software that is clear, controlled, and built to hold up over time.
+
+---
+
+### What I work on
+
+- **Mobile:** Native Android (Kotlin)  
+- **Web:** PHP, modern web systems  
+- **Systems Thinking:** behavior, structure, and long-term reliability  
+- **Currently exploring:** Python, systems design  
+
+---
+
+### Voltroniq
+
+Voltroniq is where I build independently.
+
+It’s a small, focused studio working across different kinds of software — from mobile tools to interactive systems and technical utilities.
+
+The goal is consistent across all of them:
+
+> build software that behaves the way it should.
+
+No noise, no unnecessary complexity — just systems that stay understandable and hold up in real use.
+
+---
+
+### Current direction
+
+- A mobile product in closed testing  
+- New systems in progress across reflection, interaction, and technical workflows  
+
+---
+
+### Approach
+
+I care less about how much is built, and more about how well it holds up.
+
+- Clear behavior over clever abstractions  
+- Fewer features, better execution  
+- Systems that remain predictable outside ideal conditions  
+
+---
+
+### Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
 <!-- Programming Languages -->
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
 
 <!-- Web Frameworks -->
@@ -63,14 +105,14 @@ Currently, I am a Full Stack Consultant by day, an Android Dev by night and an A
 
 ---
 
-### You can connect with me on:
+### Connect
 
 <a href="https://www.linkedin.com/in/navilnoor/">
-  <img alt="Linkedin" src="https://img.shields.io/badge/Navil Noor-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/Navil Noor-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
-<br>
+<br> <br>
 <a href="https://bsky.app/profile/navilnoor.bsky.social">
-  <img alt="Bluesky" src="https://img.shields.io/badge/Navil Noor-0077B5?logo=Bluesky&logoColor=white&style=for-the-badge" />
+  <img alt="Bluesky" src="https://img.shields.io/badge/Navil Noor-0285FF?logo=bluesky&logoColor=white&style=for-the-badge" />
 </a>
 
 ---
