@@ -7,8 +7,9 @@ foundation built over several years — including teaching NumPy, Pandas,
 and Flask professionally, and a thesis comparing machine learning 
 approaches for medical image classification.
 
-I'm currently extending that into modern web development through 
-Full Stack Open (University of Helsinki) — React, TypeScript, and Node.
+I'm currently building an AI-focused software product, exploring how 
+modern web technologies and AI can be combined to solve practical problems 
+for businesses.
 
 ---
 
